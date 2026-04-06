@@ -84,6 +84,11 @@
 			"Name": "PaperZD",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c4b43502026047d89296cd7bffd92828"
+		},
+		{
+			"Name": "GoogleAnalyticsMP",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/8900b45df4d44fcb8a070b19d00d2d99"
 		}
 	]
 }
